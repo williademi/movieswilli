@@ -1,0 +1,468 @@
+[
+    {
+        "id": "harry_potter",
+        "title": "Harry Potter",
+        "overview": "Koleksioni i filmave Harry Potter \u00ebsht\u00eb nj\u00eb nga sagat m\u00eb ikonike n\u00eb historin\u00eb e kinemas\u00eb fantastike, i bazuar n\u00eb romanet bestseller t\u00eb J.K. Rowling. Ai rr\u00ebfen historin\u00eb e Harry Potterit, nj\u00eb djal\u00eb i zakonsh\u00ebm q\u00eb zbulon se \u00ebsht\u00eb magjistar dhe se \u00ebsht\u00eb i destinuar t\u00eb p\u00ebrballet me err\u00ebsir\u00ebn m\u00eb t\u00eb madhe t\u00eb bot\u00ebs magjike.\n\nSaga p\u00ebrb\u00ebhet nga tet\u00eb filma q\u00eb ndjekin rritjen, zhvillimin dhe sfidat e Harryt dhe miqve t\u00eb tij, Ron Weasley dhe Hermione Granger, gjat\u00eb viteve t\u00eb tyre n\u00eb shkoll\u00ebn e magjis\u00eb Hogwarts. Nga zbulimi i bot\u00ebs magjike dhe mistereve t\u00eb saj, deri te lufta p\u00ebrfundimtare kund\u00ebr Lord Voldemortit, filmat nd\u00ebrtojn\u00eb nj\u00eb narrativ\u00eb t\u00eb pasur me emocione, rrezik dhe sakrifica.",
+        "poster": "https://image.tmdb.org/t/p/original/8Xmkc1HvCOpMlbFvVabrtr6HAsp.jpg",
+        "backdrop": "",
+        "movies": [
+            {
+                "movie_id": "harry_potter_and_the_philosophers_stone",
+                "order": 1
+            },
+            {
+                "movie_id": "harry_potter_and_the_chamber_of_secrets",
+                "order": 2
+            },
+            {
+                "movie_id": "harry_potter_and_the_prisoner_of_azkaban",
+                "order": 3
+            },
+            {
+                "movie_id": "harry_potter_and_the_goblet_of_fire",
+                "order": 4
+            },
+            {
+                "movie_id": "harry_potter_and_the_order_of_the_phoenix",
+                "order": 5
+            },
+            {
+                "movie_id": "harry_potter_and_the_half_blood_prince",
+                "order": 6
+            },
+            {
+                "movie_id": "harry_potter_and_the_deathly_hallows_part_1",
+                "order": 7
+            },
+            {
+                "movie_id": "harry_potter_and_the_deathly_hallows_part_2",
+                "order": 8
+            }
+        ]
+    },
+    {
+        "id": "john_wick",
+        "title": "John Wick",
+        "overview": "Koleksioni John Wick \u00ebsht\u00eb nj\u00eb sag\u00eb aksioni intensive q\u00eb ndjek historin\u00eb e nj\u00eb ish-vras\u00ebsi elitar q\u00eb rikthehet n\u00eb bot\u00ebn kriminale pas nj\u00eb akti personal hakmarrjeje. I njohur p\u00ebr stilin vizual t\u00eb rafinuar, koreografin\u00eb precize t\u00eb luftimit dhe ritmin e pandalsh\u00ebm, ky koleksion ka vendosur nj\u00eb standard t\u00eb ri p\u00ebr filmat modern\u00eb t\u00eb aksionit.",
+        "poster": "https://image.tmdb.org/t/p/original/sm7rZZivZm2NhJDucFf3gpfFdVt.jpg",
+        "backdrop": "",
+        "movies": [
+            {
+                "movie_id": "john_wick",
+                "order": 1
+            },
+            {
+                "movie_id": "john_wick_chapter_2",
+                "order": 2
+            },
+            {
+                "movie_id": "ballerina",
+                "order": 5
+            },
+            {
+                "movie_id": "john_wick_chapter_3_parabellum",
+                "order": 3
+            },
+            {
+                "movie_id": "john_wick_chapter_4",
+                "order": 4
+            }
+        ]
+    },
+    {
+        "id": "Lord_of_the_rings",
+        "title": "The Lord of the Rings",
+        "overview": "Koleksioni The Lord of the Rings \u00ebsht\u00eb nj\u00eb trilogji epike fantazie q\u00eb ndjek udh\u00ebtimin e Frodo Baggins p\u00ebr t\u00eb shkat\u00ebrruar Unaz\u00ebn e Vetme dhe p\u00ebr t\u2019i dh\u00ebn\u00eb fund k\u00ebrc\u00ebnimit t\u00eb Sauronit. I vendosur n\u00eb Tok\u00ebn e Mesme, rr\u00ebfimi nd\u00ebrthur aventur\u00ebn, sakrific\u00ebn dhe betej\u00ebn mes s\u00eb mir\u00ebs dhe s\u00eb keqes.",
+        "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/oENY593nKRVL2PnxXsMtlh8izb4.jpg",
+        "backdrop": "",
+        "movies": [
+            {
+                "movie_id": "the_lord_of_the_rings_the_fellowship_of_the_ring",
+                "order": 1
+            },
+            {
+                "movie_id": "the_lord_of_the_rings_the_two_towers",
+                "order": 2
+            },
+            {
+                "movie_id": "the_lord_of_the_rings_the_return_of_the_king",
+                "order": 3
+            }
+        ]
+    },
+    {
+        "id": "the_hobbit",
+        "title": "The Hobbit Collection",
+        "overview": "Koleksioni i filmave The Hobbit p\u00ebrb\u00ebn nj\u00eb trilogji epike fantazie q\u00eb sh\u00ebrben si pararend\u00ebse e sag\u00ebs The Lord of the Rings. I bazuar n\u00eb romanin klasik t\u00eb J.R.R. Tolkien, ky koleksion ndjek udh\u00ebtimin e papritur t\u00eb Bilbo Baggins, nj\u00eb hobbit i thjesht\u00eb dhe pa ambicie heroike, i cili p\u00ebrfshihet n\u00eb nj\u00eb aventur\u00eb madhore p\u00ebr t\u00eb rimarr\u00eb Mbret\u00ebrin\u00eb e Humbur t\u00eb Ereborit nga dragoi i friksh\u00ebm Smaug.\n\nTrilogjia p\u00ebrb\u00ebhet nga tre filma q\u00eb nd\u00ebrtojn\u00eb gradualisht narrativ\u00ebn:\n\nAn Unexpected Journey prezanton bot\u00ebn, personazhet dhe thirrjen drejt aventur\u00ebs.\n\nThe Desolation of Smaug thellon konfliktin, zgjeron universin dhe kulmon me p\u00ebrballjen me dragoin.\n\nThe Battle of the Five Armies p\u00ebrmbyll historin\u00eb me nj\u00eb betej\u00eb masive q\u00eb p\u00ebrcakton fatin e Tok\u00ebs s\u00eb Mesme.\n\nVizualisht spektakolar dhe narrativisht i lidhur ngusht\u00eb me mitologjin\u00eb e Tok\u00ebs s\u00eb Mesme, koleksioni kombinon aventur\u00ebn, miq\u00ebsin\u00eb, guximin dhe sakrific\u00ebn. The Hobbit \u00ebsht\u00eb nj\u00eb p\u00ebrvoj\u00eb e plot\u00eb kinematografike p\u00ebr adhuruesit e fantazis\u00eb epike dhe nj\u00eb hyrje ideale drejt bot\u00ebs s\u00eb The Lord of the Rings.",
+        "poster": "https://image.tmdb.org/t/p/original/4MyjzLpdX6H0Voj7H2kIgNgowli.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/34H5EHmOMuVD37Z9ZbtSsnXiSw4.jpg",
+        "movies": [
+            {
+                "movie_id": "the_hobbit_an_unexpected_journey",
+                "order": 1
+            },
+            {
+                "movie_id": "the_hobbit_the_desolation_of_smaug",
+                "order": 2
+            },
+            {
+                "movie_id": "the_hobbit_the_battle_of_the_five_armies",
+                "order": 3
+            }
+        ]
+    },
+    {
+        "id": "avengers",
+        "title": "The Avengers Collection",
+        "overview": "Koleksioni Avengers \u00ebsht\u00eb zemra e Marvel Cinematic Universe, duke bashkuar superheronjt\u00eb m\u00eb t\u00eb fuqish\u00ebm t\u00eb Tok\u00ebs p\u00ebr t\u2019u p\u00ebrballur me k\u00ebrc\u00ebnime globale dhe kozmike. I fokusuar te bashk\u00ebpunimi, sakrifica dhe p\u00ebrgjegj\u00ebsia e fuqis\u00eb, ky koleksion ngrit aksionin dhe emocionin n\u00eb shkall\u00eb epike.",
+        "poster": "https://image.tmdb.org/t/p/original/qJawKUQcIBha507UahUlX0keOT7.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/nuQ6zweT4r3qBFiMYzhGFejHlqM.jpg",
+        "movies": [
+            {
+                "movie_id": "the_avengers",
+                "order": 1
+            },
+            {
+                "movie_id": "avengers_age_of_ultron",
+                "order": 2
+            },
+            {
+                "movie_id": "avengers_infinity_war",
+                "order": 3
+            },
+            {
+                "movie_id": "avengers_endgame",
+                "order": 4
+            }
+        ]
+    },
+    {
+        "id": "iron_man",
+        "title": "Iron Man Collections",
+        "overview": "Koleksioni Iron Man ndjek historin\u00eb e Tony Stark, nj\u00eb gjeni i teknologjis\u00eb dhe industrialist karizmatik q\u00eb shnd\u00ebrrohet n\u00eb nj\u00eb superheron fal\u00eb zgjuarsis\u00eb dhe inovacionit t\u00eb tij. K\u00ebta filma sh\u00ebnojn\u00eb fillimin e Marvel Cinematic Universe dhe vendosin themelet e tij narrative.",
+        "poster": "https://image.tmdb.org/t/p/original/fbeJ7f0aD4A112Bc1tnpzyn82xO.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/r9Mu0q7ludUzL83GntSQwZjeDhm.jpg",
+        "movies": [
+            {
+                "movie_id": "iron_man",
+                "order": 1
+            },
+            {
+                "movie_id": "iron_man_2",
+                "order": 2
+            },
+            {
+                "movie_id": "iron_man_3",
+                "order": 3
+            }
+        ]
+    },
+    {
+        "id": "the_godfather",
+        "title": "The Godfather Collection",
+        "overview": "Koleksioni The Godfather \u00ebsht\u00eb nj\u00eb trilogji klasike kriminale q\u00eb rr\u00ebfen historin\u00eb e familjes mafioze Corleone dhe ngritjen e pushtetit t\u00eb saj n\u00eb bot\u00ebn e krimit t\u00eb organizuar amerikan. I fokusuar te besnik\u00ebria, pushteti dhe tradhtia, rr\u00ebfimi ndjek ve\u00e7an\u00ebrisht transformimin e Michael Corleone nga trash\u00ebgimtar i rezervuar n\u00eb nj\u00eb udh\u00ebheq\u00ebs t\u00eb pam\u00ebshirsh\u00ebm.",
+        "poster": "https://image.tmdb.org/t/p/original/e5iVtjkjM30znn86JsvkBYtvEo1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/x47UFSyhYgqpES8CUs1otgCqTSO.jpg",
+        "movies": [
+            {
+                "movie_id": "the_godfather",
+                "order": 1
+            },
+            {
+                "movie_id": "the_godfather_part_ii",
+                "order": 2
+            },
+            {
+                "movie_id": "the_godfather_part_iii",
+                "order": 3
+            }
+        ]
+    },
+    {
+        "id": "Pirates_Caribbean",
+        "title": "Pirates of the Caribbean Collection",
+        "overview": "Koleksioni Pirates of the Caribbean \u00ebsht\u00eb nj\u00eb sag\u00eb aventurore fantastike e mbushur me aksion, humor dhe mitologji detare. N\u00eb qend\u00ebr t\u00eb saj q\u00ebndron kapiteni karizmatik Jack Sparrow, i cili p\u00ebrfshihet n\u00eb beteja epike mes pirat\u00ebsh, perandorive detare dhe forcave mbinatyrore.\n\nMe skena spektakolare n\u00eb det, personazhe ikonike dhe nj\u00eb atmosfer\u00eb unike pirate, ky koleksion ofron arg\u00ebtim t\u00eb past\u00ebr dhe mbetet nj\u00eb nga sagat m\u00eb t\u00eb njohura t\u00eb aventur\u00ebs moderne n\u00eb kinemat\u00eb bot\u00ebrore.",
+        "poster": "https://image.tmdb.org/t/p/original/zT5UKFhq9nk97VGlBbAxlAK8UFN.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/hASxArwUHRTJoYjkwhBTPATwGPp.jpg",
+        "movies": [
+            {
+                "movie_id": "pirates_of_the_caribbean_the_curse_of_the_black_pearl",
+                "order": 1
+            },
+            {
+                "movie_id": "pirates_of_the_caribbean_dead_mans_chest",
+                "order": 2
+            },
+            {
+                "movie_id": "pirates_of_the_caribbean_at_worlds_end",
+                "order": 3
+            },
+            {
+                "movie_id": "pirates_of_the_caribbean_on_stranger_tides",
+                "order": 4
+            },
+            {
+                "movie_id": "pirates_of_the_caribbean_dead_men_tell_no_tales",
+                "order": 5
+            }
+        ]
+    },
+    {
+        "id": "happy_feet",
+        "title": "Happy Feet",
+        "overview": "Mumble pinguin ka nj\u00eb problem: djali i tij Erik, i cili heziton t\u00eb k\u00ebrcej\u00eb, takon The Mighty Sven, nj\u00eb pinguin q\u00eb mund t\u00eb fluturoj\u00eb! Gj\u00ebrat p\u00ebrkeq\u00ebsohen p\u00ebr Mumble kur bota tronditet nga forca t\u00eb fuqishme, duke e b\u00ebr\u00eb at\u00eb t\u00eb bashkoj\u00eb kombet e pinguin\u00ebve dhe aleat\u00ebt e tyre p\u00ebr t\u2019i rregulluar gj\u00ebrat.",
+        "poster": "https://image.tmdb.org/t/p/original/4tSbl7vQJ1gkogQUKXowNgcM5yP.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/zTp8zTc6wgQeinXdfG2RcQinZrN.jpg",
+        "movies": [
+            {
+                "movie_id": "happy_feet",
+                "order": 1
+            },
+            {
+                "movie_id": "happy_feet_two",
+                "order": 2
+            }
+        ]
+    },
+    {
+        "id": "thor",
+        "title": "Thor",
+        "overview": "A superhero film series based on the comic book character of the same name published by Marvel Comics, and part of the Marvel Cinematic Universe (MCU) film series. The series centers on Thor, the crown prince of Asgard.",
+        "poster": "https://image.tmdb.org/t/p/original/1fGblAmaE2wU6ts2A83eWBgkmHs.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/weqSZcMMFH0RCDa8X9FX8pFiKyC.jpg",
+        "movies": [
+            {
+                "movie_id": "thor",
+                "order": 1
+            },
+            {
+                "movie_id": "thor_the_dark_world",
+                "order": 2
+            },
+            {
+                "movie_id": "thor_ragnarok",
+                "order": 3
+            },
+            {
+                "movie_id": "thor_love_and_thunder",
+                "order": 4
+            }
+        ]
+    },
+    {
+        "id": "shrek",
+        "title": "Shrek",
+        "overview": "Aventurat e episodeve t\u00eb m\u00ebparsh\u00ebm tani jan\u00eb nj\u00eb kujtim i larg\u00ebt dhe Shrek \u00ebsht\u00eb b\u00ebr\u00eb nj\u00eb njeri i v\u00ebrtet\u00eb i familjes.",
+        "poster": "https://image.tmdb.org/t/p/original/wWNou7NRggWkkQbUq8Du6rvLYuQ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/m6dEGSfa7Q37RQGql0fZYeo4nAU.jpg",
+        "movies": [
+            {
+                "movie_id": "shrek_2",
+                "order": 2
+            },
+            {
+                "movie_id": "shrek_the_third",
+                "order": 3
+            },
+            {
+                "movie_id": "shrek_the_halls",
+                "order": 4
+            },
+            {
+                "movie_id": "shrek_forever_after",
+                "order": 5
+            },
+            {
+                "movie_id": "shrek",
+                "order": 1
+            }
+        ]
+    },
+    {
+        "id": "minions",
+        "title": "Minions & Despicable Me Collection",
+        "overview": "Minionet Stuart, Kevin dhe Bob rekrutohen nga Scarlet Overkill, nj\u00eb super horr q\u00eb, s\u00eb bashku me burrin e saj shpik\u00ebs Herb, harton nj\u00eb komplot p\u00ebr t\u00eb pushtuar bot\u00ebn.",
+        "poster": "https://image.tmdb.org/t/p/original/9Ul4YrDQAKfkOf8TpV2RrjeLmaI.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/yG4ZgrIinuQJGuFQfXZc1fB2UHN.jpg",
+        "movies": [
+            {
+                "movie_id": "despicable_me",
+                "order": 1
+            },
+            {
+                "movie_id": "despicable_me_2",
+                "order": 2
+            },
+            {
+                "movie_id": "despicable_me_3",
+                "order": 3
+            },
+            {
+                "movie_id": "despicable_me_4",
+                "order": 4
+            },
+            {
+                "movie_id": "minions",
+                "order": 5
+            },
+            {
+                "movie_id": "minions_the_rise_of_gru",
+                "order": 6
+            }
+        ]
+    },
+    {
+        "id": "the_equalizer",
+        "title": "The Equalizer",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/original/vXJvx9yxb9QlZa0tMoBvCmlT7EX.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/vXJvx9yxb9QlZa0tMoBvCmlT7EX.jpg",
+        "movies": [
+            {
+                "movie_id": "the_equalizer",
+                "order": 1
+            },
+            {
+                "movie_id": "the_equalizer_2",
+                "order": 2
+            },
+            {
+                "movie_id": "the_equalizer_3",
+                "order": 3
+            }
+        ]
+    },
+    {
+        "id": "sonic",
+        "title": "Sonic the Hedgehog Collection",
+        "overview": "Follows the adventures of Sonic the Hedgehog an anthropomorphic hedgehog born with the ability to run faster than the speed of sound, hence his name, and possesses lightning-fast reflexes to match his speed.",
+        "poster": "https://image.tmdb.org/t/p/original/1qtAVIWnx4vxmFEnZ3fDDbtMt8o.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/24xr2yWJ4hGg0OQ5jvXORYrf4tT.jpg",
+        "movies": [
+            {
+                "movie_id": "sonic_the_hedgehog",
+                "order": 1
+            },
+            {
+                "movie_id": "sonic_the_hedgehog_2",
+                "order": 2
+            },
+            {
+                "movie_id": "sonic_the_hedgehog_3",
+                "order": 3
+            }
+        ]
+    },
+    {
+        "id": "back_to_the_future",
+        "title": "Back to the Future",
+        "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+        "poster": "https://image.tmdb.org/t/p/original/8FO3uWyK00SYCVHNZ5NYdUb4Ow7.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/mDM3HqGlw8UdBfzJg8hW1wit2bf.jpg",
+        "movies": [
+            {
+                "movie_id": "back_to_the_future",
+                "order": 1
+            },
+            {
+                "movie_id": "back_to_the_future_part_ii",
+                "order": 2
+            },
+            {
+                "movie_id": "back_to_the_future_part_iii",
+                "order": 3
+            }
+        ]
+    },
+    {
+        "id": "transformers",
+        "title": "Transformers Collection",
+        "overview": "The Transformers series follows the continuing battle between the Autobots and the Decepticons and ultimately, the triumph of good over evil. This collection includes theatrically released films of the Transformers saga only.",
+        "poster": "https://image.tmdb.org/t/p/original/nnFgBA6nR0pHorxdFaDvdY4nVHL.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8a0SgPMKzWIXpIfdSHbyTiz8jxD.jpg",
+        "movies": [
+            {
+                "movie_id": "transformers",
+                "order": 1
+            },
+            {
+                "movie_id": "transformers_revenge_of_the_fallen",
+                "order": 2
+            },
+            {
+                "movie_id": "transformers_dark_of_the_moon",
+                "order": 3
+            },
+            {
+                "movie_id": "transformers_age_of_extinction",
+                "order": 4
+            },
+            {
+                "movie_id": "transformers_the_last_knight",
+                "order": 5
+            },
+            {
+                "movie_id": "bumblebee",
+                "order": 6
+            },
+            {
+                "movie_id": "transformers_rise_of_the_beasts",
+                "order": 7
+            }
+        ]
+    },
+    {
+        "id": "family_plan",
+        "title": "The Family Plan Collection",
+        "overview": "Dan Morgan is many things: a devoted husband, a loving father, a celebrated car salesman. He's also a former assassin. And when his past catches up to his present, he's forced to take his unsuspecting family on a road trip unlike any other.",
+        "poster": "https://image.tmdb.org/t/p/original/etf8OuJwaVYCa9NfQTrpPoTvvbj.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/7O4OsxFTcdy8rleZXP9KfNjgIFm.jpg",
+        "movies": [
+            {
+                "movie_id": "the_family_plan",
+                "order": 1
+            },
+            {
+                "movie_id": "the_family_plan_2",
+                "order": 2
+            }
+        ]
+    },
+    {
+        "id": "police_academy",
+        "title": "Police Academy Collection",
+        "overview": "A series of American comedy films, the first six of which were made in the 1980s. The seventh and to date last installment, Mission to Moscow, was released in 1994. The series opened with Police Academy (1984) which started with the premise that a new mayor had announced a policy requiring the police department to accept all willing recruits. The movie followed a group of misfit recruits in their attempts to prove themselves capable of being police officers. The main character, Carey Mahoney (Steve Guttenberg), was a repeat offender who was forced to join the police academy as punishment.",
+        "poster": "https://image.tmdb.org/t/p/original/q6npkfLX1jryO4a3GI63WJW9TrT.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/jM5eAVBBTubyO8GKViLEagAsRIp.jpg",
+        "movies": [
+            {
+                "movie_id": "police_academy",
+                "order": 1
+            },
+            {
+                "movie_id": "police_academy_2_their_first_assignment",
+                "order": 2
+            },
+            {
+                "movie_id": "police_academy_3_back_in_training",
+                "order": 3
+            },
+            {
+                "movie_id": "police_academy_4_citizens_on_patrol",
+                "order": 4
+            },
+            {
+                "movie_id": "police_academy_5_assignment_miami_beach",
+                "order": 5
+            },
+            {
+                "movie_id": "police_academy_6_city_under_siege",
+                "order": 6
+            },
+            {
+                "movie_id": "police_academy_mission_to_moscow",
+                "order": 7
+            }
+        ]
+    }
+]
