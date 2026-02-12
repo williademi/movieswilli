@@ -2476,5 +2476,59 @@
         "embed": "https://vidmoly.biz/embed-2ebqv3c2rtya.html",
         "video": "https://vidmoly.biz/embed-2ebqv3c2rtya.html",
         "url": "https://player.videasy.net/movie/14160?color=8B5CF6&overlay=true&nextEpisode=false&episodeSelector=false&autoplayNextEpisode=false&start=10"
+    },
+    {
+        "id": 1770919675697,
+        "title": "Shaun of the Dead",
+        "type": "movie",
+        "year": "2004",
+        "poster": "https://image.tmdb.org/t/p/w185/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg",
+        "backdrop": "",
+        "overview": "Shaun jeton një jetë tepër të parëndësishme, e cila rrotullohet rreth të dashurës së tij, nënës së tij dhe, mbi të gjitha, pubit lokal. Kjo rutinë e qetë kërcënohet kur të vdekurit kthehen në jetë dhe bëjnë përpjekje të forta për të gëllititur banorët e zakonshëm të Londrës.",
+        "categories": [
+            "Komedi",
+            "Horror"
+        ],
+        "tmdb_id": "",
+        "source": "embed",
+        "embed": "https://vidmoly.biz/embed-62lj7hk5p9h3.html",
+        "video": "https://vidmoly.biz/embed-62lj7hk5p9h3.html",
+        "url": "https://player.videasy.net/movie/747?color=8B5CF6&overlay=true&nextEpisode=false&episodeSelector=false&autoplayNextEpisode=false"
+    },
+    {
+        "id": 1770921073685,
+        "title": "Operation Fortune: Ruse de Guerre",
+        "type": "movie",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w185/uo7vWfQUlVwueYTDRicXOJa8Oow.jpg",
+        "backdrop": "",
+        "overview": "Agjenti special Orson Fortune dhe ekipi i tij i operativëve rekrutojnë një nga yjet më të mëdhenj të Hollywood për t'i ndihmuar në një mission të fshehtë, kur shitja e një teknologjie të re vdekjeprurëse të armëve kërcënon të shqetësojë rendin botëror.",
+        "categories": [
+            "Aksion",
+            "Komedi",
+            "Thriller"
+        ],
+        "tmdb_id": "",
+        "source": "embed",
+        "embed": "https://vidmoly.biz/embed-nol15er79s5t.html",
+        "video": "https://vidmoly.biz/embed-nol15er79s5t.html",
+        "url": "https://player.videasy.net/movie/739405?color=8B5CF6&overlay=true&nextEpisode=false&episodeSelector=false&autoplayNextEpisode=false"
+    },
+    {
+        "id": 1770921214877,
+        "title": "Superbad",
+        "type": "movie",
+        "year": "2007",
+        "poster": "https://image.tmdb.org/t/p/w185/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
+        "backdrop": "",
+        "overview": "Dy të diplomuar të varur nga njëri-tjetri, përballen me ankthin e ndarjes pasi plani i tyre për të organizuar një festë me pirje të tepërt, shkon keq.",
+        "categories": [
+            "Komedi"
+        ],
+        "tmdb_id": "",
+        "source": "embed",
+        "embed": "https://vidmoly.biz/embed-i6hzqsxti5m9.html",
+        "video": "https://vidmoly.biz/embed-i6hzqsxti5m9.html",
+        "url": "https://player.videasy.net/movie/8363?color=8B5CF6&overlay=true&nextEpisode=false&episodeSelector=false&autoplayNextEpisode=false"
     }
 ]
