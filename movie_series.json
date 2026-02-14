@@ -464,5 +464,30 @@
                 "order": 7
             }
         ]
+    },
+    {
+        "id": "the_expendables",
+        "title": "The Expendables Collection",
+        "overview": "An ensemble action film series about a group of elite mercenaries. This series pays tribute to the blockbuster action films of the 1980s and early 1990s, starring an array of action veterans from those decades.",
+        "poster": "https://image.tmdb.org/t/p/original/zwnCtNpHa6TFI1z20LPFgdY2Qks.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/vzfQJCdnd3FJrclke2RdiscNCbo.jpg",
+        "movies": [
+            {
+                "movie_id": "the_expendables",
+                "order": 1
+            },
+            {
+                "movie_id": "the_expendables_2",
+                "order": 2
+            },
+            {
+                "movie_id": "the_expendables_3",
+                "order": 3
+            },
+            {
+                "movie_id": "expend4bles",
+                "order": 4
+            }
+        ]
     }
 ]
