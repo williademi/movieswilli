@@ -1860,17 +1860,17 @@
     {
         "id": "greenland_2_migration",
         "title": "Greenland 2: Migration",
-        "category": "Aksion",
+        "type": "movie",
+        "year": "2026",
         "poster": "https://image.tmdb.org/t/p/w185/dtPwBZjzqTaObjG4fKStRkBq1uu.jpg",
         "backdrop": "",
         "overview": "Xhon Garriti, gruaja e tij e larguar dhe djali i tyre i vogël nisin një udhëtim të rrezikshëm për të gjetur një vend të shenjtë ndërsa një kometë që vret planetin vrapon drejt Tokës. Mes llogarive të tmerrshme të qyteteve që po rrafshohen, Garrity-t përjetojnë më të mirën dhe më të keqen në njerëzim. Ndërsa numërimi mbrapsht për apokalipsin global i afrohet zeros, udhëtimi i tyre i pabesueshëm kulmon në një fluturim të dëshpëruar dhe të minutës së fundit drejt një strehe të mundshme të sigurt.",
-        "year": "2026",
-        "type": "movie",
-        "tmdb_id": null,
+        "categories": [],
+        "tmdb_id": "",
         "source": "embed",
-        "embed": "https://voe.sx/e/eoak4dtsk4an",
-        "video": "https://voe.sx/e/eoak4dtsk4an",
-        "url": "https://myvidplay.com/d/i3gh6jn0ytbj"
+        "embed": "https://myvidplay.com/d/iu1kefek68uk",
+        "video": "https://myvidplay.com/d/iu1kefek68uk",
+        "url": "https://lancewhosedifficult.com/w5xeeeqnqxzz"
     },
     {
         "id": "anaconda",
@@ -2650,5 +2650,127 @@
         "embed": "https://myvidplay.com/d/5s9m7uiqloc7",
         "video": "https://myvidplay.com/d/5s9m7uiqloc7",
         "url": "https://lauradaydo.com/zmdozfmxyygx"
+    },
+    {
+        "id": 1771259700678,
+        "title": "Downfall",
+        "type": "movie",
+        "year": "2004",
+        "poster": "https://image.tmdb.org/t/p/w185/cP1ElGjBhbZAAqmueXjHDKlSwiP.jpg",
+        "backdrop": "",
+        "overview": "In April of 1945, Germany stands at the brink of defeat with the Russian Army closing in from the east and the Allied Expeditionary Force attacking from the west. In Berlin, capital of the Third Reich, Adolf Hitler proclaims that Germany will still achieve victory and orders his generals and advisers to fight to the last man. When the end finally does come, and Hitler lies dead by his own hand, what is left of his military must find a way to end the killing that is the Battle of Berlin, and lay down their arms in surrender.",
+        "categories": [
+            "Dokumentar",
+            "Lufte"
+        ],
+        "tmdb_id": "",
+        "source": "embed",
+        "embed": "https://www.lookmovie2.to/movies/view/0363163-downfall-2004",
+        "video": "https://www.lookmovie2.to/movies/view/0363163-downfall-2004",
+        "url": "https://ionmedia.tv/movie/downfall-17838"
+    },
+    {
+        "id": 1771259855681,
+        "title": "Greyhound",
+        "type": "movie",
+        "year": "2020",
+        "poster": "https://image.tmdb.org/t/p/w185/kjMbDciooTbJPofVXgAoFjfX8Of.jpg",
+        "backdrop": "",
+        "overview": "Një kapiten për herë të parë drejton një kolonë anijesh aleate që transportojnë mijëra ushtarë nëpër ujërat e pabesë të “Gropës së Zezë” në vijën e parë të Luftës së Dytë Botërore. Pa mbrojtje nga mbulesa ajrore për 5 ditë, kapiteni dhe kolona e tij duhet të luftojnë me U-bokat naziste të armikut përreth, në mënyrë që t’u japin aleatëve një shans për të fituar luftën.",
+        "categories": [
+            "Aksion",
+            "Lufte"
+        ],
+        "tmdb_id": "",
+        "source": "embed",
+        "embed": "https://myvidplay.com/d/27ufo12g6a64",
+        "video": "https://myvidplay.com/d/27ufo12g6a64",
+        "url": "https://www.lookmovie2.to/movies/view/6048922-greyhound-2019"
+    },
+    {
+        "id": 1771259949419,
+        "title": "12 Strong",
+        "type": "movie",
+        "year": "2018",
+        "poster": "https://image.tmdb.org/t/p/w185/37Qwani2g0jVPU7N4OkkTZ7aERz.jpg",
+        "backdrop": "",
+        "overview": "Një ekip i forcave speciale shkon në Afganistan pas sulmeve të 11 shtatorit në një përpjekje për të çmontuar talebanët.",
+        "categories": [
+            "Aksion",
+            "Lufte"
+        ],
+        "tmdb_id": "",
+        "source": "embed",
+        "embed": "https://myvidplay.com/d/sv6flxhe05sh",
+        "video": "https://myvidplay.com/d/sv6flxhe05sh",
+        "url": "https://www.lookmovie2.to/movies/view/1413492-12-strong-2018"
+    },
+    {
+        "id": 1771613099058,
+        "title": "The Tank",
+        "type": "movie",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w185/65Jr1JAgWlu9em8zHhAfrNJJQBt.jpg",
+        "backdrop": "",
+        "overview": "Një ekuipazh tanku gjerman Tiger dërgohet në një mision të rrezikshëm për të shpëtuar oficerin e zhdukur Paul von Hardenburg nga një bunker tepër sekret pas vijave të armikut. Ndërsa ata ecin nëpër tokën vdekjeprurëse të askujt, ata duhet të përballen jo vetëm me armikun, por edhe me frikën dhe demonët e tyre të brendshëm. Të ushqyer nga metamfetamina e Wehrmacht-it, misioni i tyre shndërrohet gjithnjë e më shumë në një udhëtim në zemër të errësirës.",
+        "categories": [
+            "Lufte"
+        ],
+        "tmdb_id": "",
+        "source": "embed",
+        "embed": "https://myvidplay.com/d/44j4viw74r3l",
+        "video": "https://myvidplay.com/d/44j4viw74r3l",
+        "url": "https://lancewhosedifficult.com/157wxahxx1tx"
+    },
+    {
+        "id": 1771613192529,
+        "title": "The World Will Tremble",
+        "type": "movie",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w185/31CKSlZdsvdY8bysV5WeR2YvTim.jpg",
+        "backdrop": "",
+        "overview": "Historia e vërtetë e pabesueshme, e patreguar se si një grup të burgosurish tentojnë një arratisje në dukje të pamundur nga kampi i parë nazist i vdekjes në mënyrë që të japin rrëfimin e parë të dëshmitarit okular të Holokaustit.",
+        "categories": [
+            "Lufte"
+        ],
+        "tmdb_id": "",
+        "source": "embed",
+        "embed": "https://myvidplay.com/d/22ejo0f8f2nk",
+        "video": "https://myvidplay.com/d/22ejo0f8f2nk",
+        "url": "https://lancewhosedifficult.com/qymeoihvceo2"
+    },
+    {
+        "id": 1771613278291,
+        "title": "Bonhoeffer: Pastor. Spy. Assassin",
+        "type": "movie",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w185/9WtImcI6k9XOcnPmSeN2Kzpf4ay.jpg",
+        "backdrop": "",
+        "overview": "Ndërsa bota shkon në prag të asgjësimit, Dietrich Bonhoeffer i bashkohet një komploti vdekjeprurës për të vrarë Hitlerin, duke rrezikuar besimin dhe fatin e tij për të shpëtuar miliona hebrenj nga gjenocidi.",
+        "categories": [
+            "Lufte"
+        ],
+        "tmdb_id": "",
+        "source": "embed",
+        "embed": "https://myvidplay.com/d/vfptkh98h21w",
+        "video": "https://myvidplay.com/d/vfptkh98h21w",
+        "url": "https://lancewhosedifficult.com/fn5g1m4e9n8w"
+    },
+    {
+        "id": 1771613392472,
+        "title": "Number 24",
+        "type": "movie",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w185/qv7crkk9fzMrvj3WqWU6PiFm12f.jpg",
+        "backdrop": "",
+        "overview": "Në prag të Luftës së Dytë Botërore, përpjekjet e një të riu norvegjez për t’i rezistuar nazistëve vendosin një kurs të ri për të ardhmen e tij – dhe të ardhmen e vendit të tij.",
+        "categories": [
+            "Lufte"
+        ],
+        "tmdb_id": "",
+        "source": "embed",
+        "embed": "https://myvidplay.com/d/ntw7lxu5m9qc",
+        "video": "https://myvidplay.com/d/ntw7lxu5m9qc",
+        "url": "https://lancewhosedifficult.com/wnlwer8nnjin"
     }
 ]
