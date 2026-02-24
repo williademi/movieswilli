@@ -489,5 +489,42 @@
                 "order": 4
             }
         ]
+    },
+    {
+        "id": "toy_story",
+        "title": "Toy Story Collection",
+        "overview": "Toy Story is a CGI animated media franchise created by Pixar and distributed by Walt Disney Pictures. The franchise is based on the anthropomorphic concept that all toys, unknown to humans, are secretly alive, and the films focus on a diverse group of toys that feature a classic cowboy named Sheriff Woody and a modern spaceman named Buzz Lightyear. The group unexpectedly embark on adventures that challenge and change them. The collection currently includes Toy Story 1-5.",
+        "poster": "https://image.tmdb.org/t/p/original/rki5qLuwb0xnnE9seehxO9TlLhW.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/hApclyB9NEZEQujAVajzi5iWE4a.jpg",
+        "movies": [
+            {
+                "movie_id": "toy_story",
+                "order": 1
+            },
+            {
+                "movie_id": "toy_story_2",
+                "order": 2
+            },
+            {
+                "movie_id": "toy_story_3",
+                "order": 3
+            },
+            {
+                "movie_id": "toy_story_of_terror",
+                "order": 4
+            },
+            {
+                "movie_id": "toy_story_4",
+                "order": 5
+            },
+            {
+                "movie_id": "toy_story_that_time_forgot",
+                "order": 6
+            },
+            {
+                "movie_id": "lightyear",
+                "order": 7
+            }
+        ]
     }
 ]
