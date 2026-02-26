@@ -4,7 +4,7 @@
         "title": "Harry Potter",
         "overview": "Koleksioni i filmave Harry Potter \u00ebsht\u00eb nj\u00eb nga sagat m\u00eb ikonike n\u00eb historin\u00eb e kinemas\u00eb fantastike, i bazuar n\u00eb romanet bestseller t\u00eb J.K. Rowling. Ai rr\u00ebfen historin\u00eb e Harry Potterit, nj\u00eb djal\u00eb i zakonsh\u00ebm q\u00eb zbulon se \u00ebsht\u00eb magjistar dhe se \u00ebsht\u00eb i destinuar t\u00eb p\u00ebrballet me err\u00ebsir\u00ebn m\u00eb t\u00eb madhe t\u00eb bot\u00ebs magjike.\n\nSaga p\u00ebrb\u00ebhet nga tet\u00eb filma q\u00eb ndjekin rritjen, zhvillimin dhe sfidat e Harryt dhe miqve t\u00eb tij, Ron Weasley dhe Hermione Granger, gjat\u00eb viteve t\u00eb tyre n\u00eb shkoll\u00ebn e magjis\u00eb Hogwarts. Nga zbulimi i bot\u00ebs magjike dhe mistereve t\u00eb saj, deri te lufta p\u00ebrfundimtare kund\u00ebr Lord Voldemortit, filmat nd\u00ebrtojn\u00eb nj\u00eb narrativ\u00eb t\u00eb pasur me emocione, rrezik dhe sakrifica.",
         "poster": "https://image.tmdb.org/t/p/original/8Xmkc1HvCOpMlbFvVabrtr6HAsp.jpg",
-        "backdrop": "",
+        "backdrop": "https://image.tmdb.org/t/p/original/4gV0rKUjB1nLUdZB4zIltLvNZZr.jpg",
         "movies": [
             {
                 "movie_id": "harry_potter_and_the_philosophers_stone",
@@ -45,7 +45,7 @@
         "title": "John Wick",
         "overview": "Koleksioni John Wick \u00ebsht\u00eb nj\u00eb sag\u00eb aksioni intensive q\u00eb ndjek historin\u00eb e nj\u00eb ish-vras\u00ebsi elitar q\u00eb rikthehet n\u00eb bot\u00ebn kriminale pas nj\u00eb akti personal hakmarrjeje. I njohur p\u00ebr stilin vizual t\u00eb rafinuar, koreografin\u00eb precize t\u00eb luftimit dhe ritmin e pandalsh\u00ebm, ky koleksion ka vendosur nj\u00eb standard t\u00eb ri p\u00ebr filmat modern\u00eb t\u00eb aksionit.",
         "poster": "https://image.tmdb.org/t/p/original/sm7rZZivZm2NhJDucFf3gpfFdVt.jpg",
-        "backdrop": "",
+        "backdrop": "https://image.tmdb.org/t/p/original/fSwYa5q2xRkBoOOjueLpkLf3N1m.jpg",
         "movies": [
             {
                 "movie_id": "john_wick",
@@ -56,16 +56,16 @@
                 "order": 2
             },
             {
-                "movie_id": "ballerina",
-                "order": 5
-            },
-            {
                 "movie_id": "john_wick_chapter_3_parabellum",
                 "order": 3
             },
             {
                 "movie_id": "john_wick_chapter_4",
                 "order": 4
+            },
+            {
+                "movie_id": "ballerina",
+                "order": 5
             }
         ]
     },
@@ -74,7 +74,7 @@
         "title": "The Lord of the Rings",
         "overview": "Koleksioni The Lord of the Rings \u00ebsht\u00eb nj\u00eb trilogji epike fantazie q\u00eb ndjek udh\u00ebtimin e Frodo Baggins p\u00ebr t\u00eb shkat\u00ebrruar Unaz\u00ebn e Vetme dhe p\u00ebr t\u2019i dh\u00ebn\u00eb fund k\u00ebrc\u00ebnimit t\u00eb Sauronit. I vendosur n\u00eb Tok\u00ebn e Mesme, rr\u00ebfimi nd\u00ebrthur aventur\u00ebn, sakrific\u00ebn dhe betej\u00ebn mes s\u00eb mir\u00ebs dhe s\u00eb keqes.",
         "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/oENY593nKRVL2PnxXsMtlh8izb4.jpg",
-        "backdrop": "",
+        "backdrop": "https://image.tmdb.org/t/p/original/qSGzLCzfMZq8WF234cS3xvoRXji.jpg",
         "movies": [
             {
                 "movie_id": "the_lord_of_the_rings_the_fellowship_of_the_ring",
@@ -95,7 +95,7 @@
         "title": "The Hobbit Collection",
         "overview": "Koleksioni i filmave The Hobbit p\u00ebrb\u00ebn nj\u00eb trilogji epike fantazie q\u00eb sh\u00ebrben si pararend\u00ebse e sag\u00ebs The Lord of the Rings. I bazuar n\u00eb romanin klasik t\u00eb J.R.R. Tolkien, ky koleksion ndjek udh\u00ebtimin e papritur t\u00eb Bilbo Baggins, nj\u00eb hobbit i thjesht\u00eb dhe pa ambicie heroike, i cili p\u00ebrfshihet n\u00eb nj\u00eb aventur\u00eb madhore p\u00ebr t\u00eb rimarr\u00eb Mbret\u00ebrin\u00eb e Humbur t\u00eb Ereborit nga dragoi i friksh\u00ebm Smaug.\n\nTrilogjia p\u00ebrb\u00ebhet nga tre filma q\u00eb nd\u00ebrtojn\u00eb gradualisht narrativ\u00ebn:\n\nAn Unexpected Journey prezanton bot\u00ebn, personazhet dhe thirrjen drejt aventur\u00ebs.\n\nThe Desolation of Smaug thellon konfliktin, zgjeron universin dhe kulmon me p\u00ebrballjen me dragoin.\n\nThe Battle of the Five Armies p\u00ebrmbyll historin\u00eb me nj\u00eb betej\u00eb masive q\u00eb p\u00ebrcakton fatin e Tok\u00ebs s\u00eb Mesme.\n\nVizualisht spektakolar dhe narrativisht i lidhur ngusht\u00eb me mitologjin\u00eb e Tok\u00ebs s\u00eb Mesme, koleksioni kombinon aventur\u00ebn, miq\u00ebsin\u00eb, guximin dhe sakrific\u00ebn. The Hobbit \u00ebsht\u00eb nj\u00eb p\u00ebrvoj\u00eb e plot\u00eb kinematografike p\u00ebr adhuruesit e fantazis\u00eb epike dhe nj\u00eb hyrje ideale drejt bot\u00ebs s\u00eb The Lord of the Rings.",
         "poster": "https://image.tmdb.org/t/p/original/4MyjzLpdX6H0Voj7H2kIgNgowli.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/34H5EHmOMuVD37Z9ZbtSsnXiSw4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/wQhdaBQCO0s6upgdQsR7BaciG11.jpg",
         "movies": [
             {
                 "movie_id": "the_hobbit_an_unexpected_journey",
@@ -141,7 +141,7 @@
         "title": "Iron Man Collections",
         "overview": "Koleksioni Iron Man ndjek historin\u00eb e Tony Stark, nj\u00eb gjeni i teknologjis\u00eb dhe industrialist karizmatik q\u00eb shnd\u00ebrrohet n\u00eb nj\u00eb superheron fal\u00eb zgjuarsis\u00eb dhe inovacionit t\u00eb tij. K\u00ebta filma sh\u00ebnojn\u00eb fillimin e Marvel Cinematic Universe dhe vendosin themelet e tij narrative.",
         "poster": "https://image.tmdb.org/t/p/original/fbeJ7f0aD4A112Bc1tnpzyn82xO.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/r9Mu0q7ludUzL83GntSQwZjeDhm.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/zAIAG3aBVfWNL530TYUf5OpJrPw.jpg",
         "movies": [
             {
                 "movie_id": "iron_man",
@@ -524,6 +524,52 @@
             {
                 "movie_id": "lightyear",
                 "order": 7
+            }
+        ]
+    },
+    {
+        "id": "ghostbusters",
+        "title": "Ghostbusters Collection",
+        "overview": "Ghostbusters is a 1984 American supernatural comedy film, directed and produced by Ivan Reitman and written by Dan Aykroyd and Harold Ramis. The film stars Bill Murray, Aykroyd, and Ramis as three eccentric parapsychologists in New York City who start a ghost-catching business. The second film, Ghostbusters II, was released in 1989.",
+        "poster": "https://image.tmdb.org/t/p/original/9Qa9t89suBChlHbVUB1pJqc2BUi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8r8XnTPSpwnWYC0lVBcy0siMtow.jpg",
+        "movies": [
+            {
+                "movie_id": "ghostbusters",
+                "order": 1
+            },
+            {
+                "movie_id": "ghostbusters_ii",
+                "order": 2
+            },
+            {
+                "movie_id": "ghostbusters_afterlife",
+                "order": 3
+            },
+            {
+                "movie_id": "ghostbusters_frozen_empire",
+                "order": 4
+            }
+        ]
+    },
+    {
+        "id": "the_fockers",
+        "title": "Meet the Parents Collection",
+        "overview": "The Meet the Parents films are a series of films involving a man and his in-laws.",
+        "poster": "https://image.tmdb.org/t/p/original/eT18DejJ7TvuJdgcQO03Y0BYUmH.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/fgcgqjw37RThZCbVrfLLkJsqNNR.jpg",
+        "movies": [
+            {
+                "movie_id": "meet_the_parents",
+                "order": 1
+            },
+            {
+                "movie_id": "meet_the_fockers",
+                "order": 2
+            },
+            {
+                "movie_id": "little_fockers",
+                "order": 3
             }
         ]
     }
