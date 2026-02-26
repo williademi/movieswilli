@@ -4032,5 +4032,54 @@
     "poster": "https://image.tmdb.org/t/p/w500/AnVaPUXPKDNOnZbUh6b7WZ5IeMW.jpg",
     "description": "Welcome back to Hawkins in the stark winter of 1985, where the original characters must fight new monsters and unravel a paranormal mystery terrorizing their town.",
     "seasons": []
+  },
+  {
+    "id": 224372,
+    "title": "A Knight of the Seven Kingdoms",
+    "poster": "https://image.tmdb.org/t/p/w500/k8yARbD9iYn2nRX2HvsopfKDN2r.jpg",
+    "description": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "ep": 1,
+            "title": "The Hedge Knight",
+            "source": "embed",
+            "video": "https://vidmoly.biz/embed-p0ruox8bt8jv.html"
+          },
+          {
+            "ep": 2,
+            "title": "Hard Salt Beef",
+            "source": "embed",
+            "video": "https://vidmoly.biz/embed-ur1wpfgfg6ch.html"
+          },
+          {
+            "ep": 3,
+            "title": "The Squire",
+            "source": "embed",
+            "video": "https://vidmoly.biz/embed-ehcgshnt8kc2.html"
+          },
+          {
+            "ep": 4,
+            "title": "Seven",
+            "source": "embed",
+            "video": "https://lancewhosedifficult.com/e/m9dwdol3kcqq"
+          },
+          {
+            "ep": 5,
+            "title": "In the Name of the Mother",
+            "source": "embed",
+            "video": "https://vidmoly.biz/embed-243f249ad3ca.html"
+          },
+          {
+            "ep": 6,
+            "title": "The Morrow",
+            "source": "embed",
+            "video": "https://vidmoly.biz/embed-aopf58tgf83w.html"
+          }
+        ]
+      }
+    ]
   }
 ]
