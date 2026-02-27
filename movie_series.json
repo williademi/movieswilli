@@ -470,7 +470,7 @@
         "title": "The Expendables Collection",
         "overview": "An ensemble action film series about a group of elite mercenaries. This series pays tribute to the blockbuster action films of the 1980s and early 1990s, starring an array of action veterans from those decades.",
         "poster": "https://image.tmdb.org/t/p/original/zwnCtNpHa6TFI1z20LPFgdY2Qks.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/vzfQJCdnd3FJrclke2RdiscNCbo.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/lA7oDSt6LkyDqtbFGbyuG0afmTI.jpg",
         "movies": [
             {
                 "movie_id": "the_expendables",
@@ -570,6 +570,56 @@
             {
                 "movie_id": "little_fockers",
                 "order": 3
+            }
+        ]
+    },
+    {
+        "id": "night_museum",
+        "title": "Night at the Museum Collection",
+        "overview": "A series of movies starring Ben Stiller as a night guard of the Museum of Natural History in New York City.",
+        "poster": "https://image.tmdb.org/t/p/original/hD8fVHKEu5goJW1OI1i5fOYApWm.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/z0nqqHwEY3niKa41kKbR4zhnvHw.jpg",
+        "movies": [
+            {
+                "movie_id": "night_at_the_museum",
+                "order": 1
+            },
+            {
+                "movie_id": "night_at_the_museum_battle_of_the_smithsonian",
+                "order": 2
+            },
+            {
+                "movie_id": "night_at_the_museum_secret_of_the_tomb",
+                "order": 3
+            }
+        ]
+    },
+    {
+        "id": "ice_age",
+        "title": "Ice Age Collection",
+        "overview": "The Ice Age Movie Collection Release into theaters by Twentieth Century Fox Animation and Blue Sky Studios.",
+        "poster": "https://image.tmdb.org/t/p/original/fQZfg1YPIpzcrRFlF1u7l7FAF7V.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/qephLdNHXg1zxfRGyBVX87ROnXA.jpg",
+        "movies": [
+            {
+                "movie_id": "ice_age",
+                "order": 1
+            },
+            {
+                "movie_id": "ice_age_the_meltdown",
+                "order": 2
+            },
+            {
+                "movie_id": "ice_age_dawn_of_the_dinosaurs",
+                "order": 3
+            },
+            {
+                "movie_id": "ice_age_collision_course",
+                "order": 4
+            },
+            {
+                "movie_id": "ice_age_continental_drift",
+                "order": 5
             }
         ]
     }
