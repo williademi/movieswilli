@@ -3341,5 +3341,90 @@
         "embed": "https://vidmoly.biz/embed-4yjt036uzy01.html",
         "video": "https://vidmoly.biz/embed-4yjt036uzy01.html",
         "url": "https://player.videasy.net/movie/1290821?color=8B5CF6&overlay=true&nextEpisode=false&episodeSelector=false&autoplayNextEpisode=false&start=70"
+    },
+    {
+        "id": 1772389609103,
+        "title": "South Park: Bigger, Longer & Uncut",
+        "type": "movie",
+        "year": "1999",
+        "poster": "https://image.tmdb.org/t/p/w185/tS0PedvA2mFO9VCHYwQpaU1K36U.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/2q3B90h2hZ6xJTvna9CIFDNaIr4.jpg",
+        "overview": "In this feature film based on the hit animated series, the third graders of South Park sneak into an R-rated film by ultra-vulgar Canadian television personalities Terrance and Phillip, and emerge with expanded vocabularies that leave their parents and teachers scandalized. When outraged Americans try to censor the film, the controversy spirals into a call to wage war on Canada and Terrance and Phillip end up on death row, with the kids their only hope of rescue.",
+        "categories": [
+            "Animacion",
+            "Komedi"
+        ],
+        "tmdb_id": "",
+        "source": "embed",
+        "embed": "https://vidmoly.biz/embed-8atiqr3i8rrd.html?cfp=1772404290.5ddb7fbfd234234d54504cbed19ee1c85a7ad04d8da162fb47366d186ec35a52",
+        "video": "https://vidmoly.biz/embed-8atiqr3i8rrd.html?cfp=1772404290.5ddb7fbfd234234d54504cbed19ee1c85a7ad04d8da162fb47366d186ec35a52",
+        "url": "https://player.videasy.net/movie/9473?color=8B5CF6&overlay=true&nextEpisode=false&episodeSelector=false&autoplayNextEpisode=false&start=20"
+    },
+    {
+        "id": 1772389913754,
+        "title": "Django Unchained",
+        "type": "movie",
+        "year": "2012",
+        "poster": "https://image.tmdb.org/t/p/w185/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/s4cJQaj40SwMifUrrdtdOJsjnRO.jpg",
+        "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+        "categories": [],
+        "tmdb_id": "",
+        "source": "embed",
+        "embed": "https://myvidplay.com/d/pjwumyog28aj",
+        "video": "https://myvidplay.com/d/pjwumyog28aj",
+        "url": "https://lancewhosedifficult.com/cyzo2jgtxuix"
+    },
+    {
+        "id": 1772390225311,
+        "title": "IF",
+        "type": "movie",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w185/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/nxxCPRGTzxUH8SFMrIsvMmdxHti.jpg",
+        "overview": "After discovering she can see everyone's imaginary friends, a girl embarks on a magical adventure to reconnect forgotten imaginary friends with their kids.",
+        "categories": [
+            "Familjar"
+        ],
+        "tmdb_id": "",
+        "source": "embed",
+        "embed": "https://myvidplay.com/d/k5a5tjl7eym6",
+        "video": "https://myvidplay.com/d/k5a5tjl7eym6",
+        "url": "https://lancewhosedifficult.com/vjpp8kdyder0"
+    },
+    {
+        "id": 1772390418237,
+        "title": "Family Switch",
+        "type": "movie",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w185/g8Gwitm4CtZBSYhLeSY4Z3Xwwcg.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/fc2pEZgr0ltmyzLl4cO9JInOg6l.jpg",
+        "overview": "When the Walker family members switch bodies with each other during a rare planetary alignment, their hilarious journey to find their way back to normal will bring them closer together than they ever thought possible.",
+        "categories": [
+            "Familjar",
+            "Komedi"
+        ],
+        "tmdb_id": "",
+        "source": "embed",
+        "embed": "https://myvidplay.com/d/3495l5s9mpcb",
+        "video": "https://myvidplay.com/d/3495l5s9mpcb",
+        "url": "https://lancewhosedifficult.com/m1eevv2hbb8p"
+    },
+    {
+        "id": 1772390558822,
+        "title": "The Super Mario Bros. Movie",
+        "type": "movie",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w185/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+        "overview": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+        "categories": [
+            "Dublim"
+        ],
+        "tmdb_id": "",
+        "source": "embed",
+        "embed": "https://myvidplay.com/d/d3khf5j3wouo",
+        "video": "https://myvidplay.com/d/d3khf5j3wouo",
+        "url": "https://voe.sx/e/kjwuhqwuti5i"
     }
 ]
