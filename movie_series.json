@@ -622,5 +622,26 @@
                 "order": 5
             }
         ]
+    },
+    {
+        "id": "goal",
+        "title": "Goal! Collection",
+        "overview": "The Goal! trilogy follows soccer phenom Santiago on his journey from fleeing Mexico with his family as a child to playing top-flight professional soccer in Euorope, and finally representing his mother country on the biggest stage of all: the World Cup.",
+        "poster": "https://image.tmdb.org/t/p/original/v3HCGVQJ5xmZ37oRKUpsEf4zKQq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/4CRsIO1uu4tArdn6eE2DtfXwEUr.jpg",
+        "movies": [
+            {
+                "movie_id": "goal",
+                "order": 1
+            },
+            {
+                "movie_id": "goal_ii_living_the_dream",
+                "order": 2
+            },
+            {
+                "movie_id": "goal_iii_taking_on_the_world",
+                "order": 3
+            }
+        ]
     }
 ]
