@@ -3702,5 +3702,39 @@
         "embed": "https://vidmoly.biz/embed-a0322z7wdz6f.html",
         "video": "https://vidmoly.biz/embed-a0322z7wdz6f.html",
         "url": "https://prx-1353-ant-23.vmwesa.online/hls2/01/02250/a0322z7wdz6f_n/index-v1-a1.m3u8?t=THNw4bZLhDyiZUJ_1Tt92fYOFcqzJwtb7XTglrTZZik=&s=1773271103&e=43200&v=&srv=transit-1479-t2&i=0.4&sp=0&asn=29170"
+    },
+    {
+        "id": 1773414954642,
+        "title": "Mortal Kombat",
+        "type": "movie",
+        "year": "1995",
+        "poster": "https://image.tmdb.org/t/p/w185/fcK7tzSSXMYiMN8E9KlZJL1BYyp.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/dfU9xyEEyLxvZ5unTn05Whm9Lce.jpg",
+        "overview": "For nine generations an evil sorcerer has been victorious in hand-to-hand battle against his mortal enemies. If he wins a tenth Mortal Kombat tournament, desolation and evil will reign over the multiverse forever. To save Earth, three warriors must overcome seemingly insurmountable odds, their own inner demons, and superhuman foes.",
+        "categories": [
+            "Fantasy"
+        ],
+        "tmdb_id": "",
+        "source": "embed",
+        "embed": "https://myvidplay.com/d/n53ih8bnn72l",
+        "video": "https://myvidplay.com/d/n53ih8bnn72l",
+        "url": "https://voe.sx/e/6l8p6lwyojcy"
+    },
+    {
+        "id": 1773787387201,
+        "title": "Good Luck, Have Fun, Don't Die",
+        "type": "movie",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w185/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
+        "overview": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
+        "categories": [
+            "Komedi"
+        ],
+        "tmdb_id": "",
+        "source": "embed",
+        "embed": "https://vidmoly.biz/embed-cs1yliowop9m.html",
+        "video": "https://vidmoly.biz/embed-cs1yliowop9m.html",
+        "url": "https://box-1525-e.vmeas.cloud/hls2/02/02261/cs1yliowop9m_n/index-v1-a1.m3u8?t=DncX1vT6YcAyqPcv1b8MwQ6e0VoSD22aS76gR5fmJQI=&s=1773787239&e=43200&v=&i=0.4&sp=0&asn=29170"
     }
 ]
